@@ -1,0 +1,171 @@
+/*=============================================
+			Theme Color
+=============================================*/
+a,
+p a,
+p a:hover,
+a:hover,
+a:focus,
+a:active,
+.th-featureservice:hover .th-btnreadmore,
+.th-borderheading h3 a,
+.th-socialiconslg li a,
+.th-address span.th-icon i,
+.th-posttags:before,
+.th-commingsooncontent .th-commingsoontextbox h2,
+.th-authorinfo h3,
+.th-blogpost .th-postmetadata li a:hover,
+.th-newsletterheading i,
+.th-btntop,
+.th-pplan ul li.th-active i,
+.tg-btnsearch:hover i,
+.tg-btnsearch:focus i{color: #15518d;}
+/*=============================================
+			Theme Background Color
+=============================================*/
+.th-header,
+.th-sectionheading h2 span,
+.th-services li a:before,
+.th-formaskquestion,
+.owl-theme .owl-controls .owl-buttons div span,
+.th-teammember figure,
+.th-btnaddtocart:hover,
+.th-footer,
+.th-headbox .th-topbar,
+.th-widgetrangeslider .th-sliderrange .ui-slider-handle,
+.th-teammemberdetail .th-socialiconslg li a,
+.th-year,
+.th-serviceicon,
+.th-pricetable table thead tr th,
+.th-headertwo,
+.th-slidertwo .owl-theme .owl-controls .owl-page span:hover,
+.th-slidertwo .owl-theme .owl-controls .owl-page.active span,
+.th-paginationborder .owl-controls .owl-page span:hover,
+.th-paginationborder .owl-controls .owl-page.active span,
+.th-btnaddtocartround:hover,
+.th-btn:hover,
+.th-btn.th-active,
+.th-fullsection,
+.th-pplan:hover .th-btn,
+.th-pplan:hover h2,
+.navbar-toggle .icon-bar,
+.tg-dropdownsearch.dropdown-menu{background:#15518d;}
+.th-postimg figcaption,
+.th-productimg figcaption{ background:rgba(21,81,141,0.80);}
+.th-btn:hover,
+.th-btn.th-active,
+.th-pplan:hover .th-btn{
+	-webkit-box-shadow: 1px 3px 0 0 rgba(9,70,131,1);
+	box-shadow: 1px 3px 0 0 rgba(9,70,131,1);
+}
+/*=============================================
+			Theme Border Color
+=============================================*/
+.th-header,
+.th-featureservice:hover .th-btnreadmore,
+.owl-theme .owl-controls .owl-buttons div span:after,
+.owl-theme .owl-controls .owl-buttons div span:before,
+.th-paginationborder .owl-controls .owl-page span:hover,
+.th-paginationborder .owl-controls .owl-page.active span{border-color: #15518d;}
+/*=============================================
+			Theme Background Color Dark
+=============================================*/
+.th-footerbar,
+.th-address,
+.th-socialarea,
+.th-socialarea:before,
+.th-headervthree .th-topbar,
+.th-headertwo .th-topbar,
+.th-iconbox,
+.th-vtwo .th-formtheme fieldset .form-control,
+.th-vtwo .th-formtheme fieldset textarea{background:#0d4176;}
+/*=============================================
+			Theme Border Color Dark
+=============================================*/
+.th-btnaddtocart:hover,
+.th-bordertitle,
+.th-widget .th-recentposts li + li{border-color: #0d4176;}
+/*=======================================================================
+			Secondary Colors
+=======================================================================*/
+/*=============================================
+		Secondary Theme Color
+=============================================*/
+.th-stars span:after,
+.tg-accordion h4.active,
+.th-panel h4:hover,
+.th-productimg .fa,
+.th-breadcrumb li a:hover,
+.th-breadcrumb li.th-active,
+.th-widgetcontent ul li a:hover,
+.th-widget .th-widgetarchives ul li a:hover:before,
+.th-footbox .th-copyright i,
+.th-widget .th-widgettiming ul li:last-child span + span,
+.th-widgetaddress strong,
+.th-productdetail .th-productprice span,
+.th-cateandtags ul li:first-child,
+.th-cateandtags ul li a:hover,
+.th-listrightangle li a:hover,
+.th-listrightangle li a:hover:before,
+.th-list li:before,
+.th-featuretitle h3,
+.th-list.th-listcount li span,
+.th-discount i,
+p a,
+.th-navigation ul li.th-active > a,
+.th-navigation ul li a:hover{color: #e54b4b;}
+/*=============================================
+		Secondary Theme Background Color
+=============================================*/
+.owl-theme .owl-controls .owl-buttons div:hover span,
+.owl-theme .owl-controls .owl-buttons div:hover span,
+.th-socialiconslg li a:hover,
+.th-panel h4:before,
+#th-latestnewsslider .owl-controls .owl-buttons div span:hover,
+.th-widget .th-widgetrecentpost ul li a:before,
+.th-tags ul li a:hover,
+.th-pagination ul li a:hover,
+.th-description ul li:before,
+.th-countdown .clock-item .text,
+.th-teammembersvtwo .th-teammemberdesignation a,
+.th-widgetservices ul li.th-active a,
+.th-widgetservices ul li a:hover,
+.th-widgetourteam ul li.th-active a,
+.th-widgetourteam ul li a:hover,
+.th-commingsoontextbox .th-counter h2,
+.th-teammemberdetail .th-socialiconslg li a:hover,
+.th-btnred,
+.th-bgred,
+.th-seeallnewscontent h3:before,
+.th-btnaddtocartround,
+.tg-panel h4:before,
+.th-themetabnav li.active a,
+.th-themetabnav li a:hover,
+.th-btn,
+.th-listdot li:before,
+.th-listhistor li:after{background: #e54b4b;}
+.th-tags ul li a:before,
+.th-pagination ul li a:hover:before,
+.th-dropdowarrow{background: #ce3e3e;}
+.th-oprationhour{ background-color:#e54b4b;}
+/*=============================================
+		Secondary Theme Border Color
+=============================================*/
+.owl-theme .owl-controls .owl-buttons div:hover span:after,
+.owl-theme .owl-controls .owl-buttons div:hover span:before,
+.th-btnbox .th-btnappointment:before,
+.th-btnbox .th-btnappointment:after,
+.th-tags ul li a:hover,
+.th-postdetail blockquote,
+.th-countdown .clock-item .text,
+.th-btnred,
+.th-sliderone.th-slidervthree .th-slidercontent h1,
+.th-themetabnav li.active a,
+.th-themetabnav li a:hover,
+.th-dropdownmenu{border-color: #e54b4b;}
+.th-widgetservices ul li.th-active a,
+.th-widgetservices ul li a:hover,
+.th-widgetservices ul li a:before,
+.th-widgetourteam ul li.th-active a,
+.th-widgetourteam ul li a:hover,
+.th-widgetourteam ul li a:before{border-color: #ce3e3e;}
